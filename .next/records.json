@@ -17,19 +17,26 @@
       "static/nmIUfYfce5eKFCzMJrVwl/pages/_error.js": 5,
       "static/nmIUfYfce5eKFCzMJrVwl/pages/index.js": 6,
       "static/runtime/main.js": 7,
-      "static/runtime/polyfills.js": 8
+      "static/runtime/polyfills.js": 8,
+      "2bcbb3a1e08a86be317fd3d3222a8fd3bcbeaad8": 9,
+      "662d3229d7aa58c0720f9cc27fd91272bb079d6f": 10,
+      "static/vMLJlPIRD6bkeIEu7j0gs/pages/_app.js": 11,
+      "static/vMLJlPIRD6bkeIEu7j0gs/pages/_error.js": 12,
+      "static/vMLJlPIRD6bkeIEu7j0gs/pages/about.js": 13,
+      "static/vMLJlPIRD6bkeIEu7j0gs/pages/index.js": 14
     },
     "bySource": {},
     "usedIds": [
-      0,
       1,
+      10,
+      11,
+      12,
+      13,
+      14,
       2,
-      3,
-      4,
-      5,
-      6,
       7,
-      8
+      8,
+      9
     ]
   }
 }

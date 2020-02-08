@@ -4,13 +4,15 @@
       "multi private-next-pages/index.js": 0,
       "multi next/dist/pages/_app": 1,
       "multi next/dist/pages/_error": 2,
-      "multi next/dist/pages/_document": 3
+      "multi next/dist/pages/_document": 3,
+      "multi private-next-pages/about.js": 4
     },
     "usedIds": {
       "0": 0,
       "1": 1,
       "2": 2,
-      "3": 3
+      "3": 3,
+      "4": 4
     }
   },
   "chunks": {
@@ -20,16 +22,22 @@
       "static/nmIUfYfce5eKFCzMJrVwl/pages/_app.js": 2,
       "static/nmIUfYfce5eKFCzMJrVwl/pages/_document.js": 3,
       "static/nmIUfYfce5eKFCzMJrVwl/pages/_error.js": 4,
-      "static/nmIUfYfce5eKFCzMJrVwl/pages/index.js": 5
+      "static/nmIUfYfce5eKFCzMJrVwl/pages/index.js": 5,
+      "static/vMLJlPIRD6bkeIEu7j0gs/pages/_app.js": 6,
+      "static/vMLJlPIRD6bkeIEu7j0gs/pages/_document.js": 7,
+      "static/vMLJlPIRD6bkeIEu7j0gs/pages/_error.js": 8,
+      "static/vMLJlPIRD6bkeIEu7j0gs/pages/about.js": 9,
+      "static/vMLJlPIRD6bkeIEu7j0gs/pages/index.js": 10
     },
     "bySource": {},
     "usedIds": [
       0,
       1,
-      2,
-      3,
-      4,
-      5
+      10,
+      6,
+      7,
+      8,
+      9
     ]
   }
 }
