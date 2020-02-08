@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import Greeting from '../components/Greeting';
+import Greeting from '../components/greeting';
 
 function HomePage() {
 
