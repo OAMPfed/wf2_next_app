@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\n\nfunction Greeting(_ref) {\n  var greetingProp = _ref.greetingProp;\n  return __jsx(\"p\", null, greetingProp);\n}\n\n;\nexport default Greeting;","map":null,"metadata":{},"sourceType":"module"}

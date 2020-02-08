@@ -1,3 +1,5 @@
+import Link from 'next/link';
+
 function AboutPage() {
 
     const styles = {
@@ -11,6 +13,9 @@ function AboutPage() {
     return (
         <div style={styles}>
             <h1>About page.</h1>
+            <Link href="/">
+                <a>Home</a>
+            </Link>
         </div>
     )
 }

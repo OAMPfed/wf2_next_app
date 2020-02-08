@@ -1,3 +1,6 @@
+import Link from 'next/link';
+import Greeting from '../components/Greeting';
+
 function HomePage() {
 
     const styles = {
@@ -11,6 +14,10 @@ function HomePage() {
     return (
         <div style={styles}>
             <h1>Stay Tuned.</h1>
+            <Link href="/about">
+                <a title="About page">About</a>
+            </Link>
+            <Greeting greetingProp={"Hello!"} />
         </div>
     )
 }
